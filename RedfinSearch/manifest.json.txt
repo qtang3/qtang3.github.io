@@ -1,0 +1,13 @@
+{
+    "name": "Redfin search",
+    "description": "Search real estate listings via Redfin by adding this tool to the pop-up menu. <br/> <br/>Visit Esri Maps for SharePoint <a href='http://doc.arcgis.com/en/maps-for-sharepoint/' target='_blank'>here</a> where you can read more about our product, download the setups, browse through our extensive help documentation, and reach out to us and ask questions via <a href='https://geonet.esri.com/community/gis/analysis/esri-maps-for-location-analytics' target='_blank'>GeoNet</a>! ",
+    "tools": [      
+{
+            "name": "RedfinSearch",
+            "location": "./RedfinSearch/tools/RedfinSearch",
+            "label": "Redfin Search by Zip",
+            "description": "A tool demonstrating integration with Redfin",
+            "thumbnailUrl": "/RedfinSearch/images/RedfinSearch.png"
+        }
+    ] 
+}
